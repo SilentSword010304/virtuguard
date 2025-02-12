@@ -1,6 +1,3 @@
-Here’s a structured `README.md` file for your GitHub repository:  
-
-```markdown
 # Malicious URL Detection using Artificial Immune System (AIS)
 
 ## Overview
@@ -56,16 +53,3 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
----
-
-### Author
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
-```
-
-### Next Steps:
-- Replace `yourusername` with your actual GitHub username.
-- Update dataset details if necessary.
-- Add an actual license (`LICENSE` file) if applicable.
-
-Let me know if you need modifications! 🚀
